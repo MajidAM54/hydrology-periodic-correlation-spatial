@@ -1,0 +1,14 @@
+Station_type,Station_number,Elevation_m,UTM_Northing_m,UTM_Easting_m,Analysis_group
+Meteorological,1,90,4067557,235023,West
+Meteorological,2,26,4070700,234440,West
+Meteorological,3,76,4072714,243359,West
+Meteorological,4,276,4074080,264810,Central
+Meteorological,5,202,4085455,299107,Central
+Meteorological,6,500,4076759,305257,Central
+Meteorological,7,210,4120983,358269,East
+Meteorological,8,213,4125346,361086,East
+Meteorological,9,438,4139471,390288,East
+Hydrometric,1,465,4073485,284272,Upstream
+Hydrometric,2,500,4071771,274622,Upstream
+Hydrometric,3,5.5,4069126,242544,Upstream
+Hydrometric,4,-26,4079672,237291,Basin outlet
